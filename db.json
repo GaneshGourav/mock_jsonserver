@@ -7,5 +7,14 @@
         "email": "gtatterton0@ehow.com"
       }
      
+    ],
+    "forum": [
+      {
+        "id": 1,
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
+      }
+     
     ]
   }
