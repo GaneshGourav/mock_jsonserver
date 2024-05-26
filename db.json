@@ -1,20 +1,122 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      }
-     
-    ],
-    "forum": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      }
-     
-    ]
-  }
+  "academies": [
+    {
+      "id": 1,
+      "name": "American Academies",
+      "image": "https://media.istockphoto.com/id/122269375/photo/elementary-school-in-pennsylvania.jpg?s=612x612&w=0&k=20&c=Ajdag8XkAyO32kbD2NUiFZs3K5HCN2wSCSuWMQOg1xY="
+    },
+    {
+      "id": 2,
+      "name": "Indian Academies",
+      "image": "https://media.istockphoto.com/id/94732796/photo/a-deserted-modern-school-building-during-day-time.jpg?s=612x612&w=0&k=20&c=yn93k-rzf6T8NuZUPOLieXWxsJC7w4xrXhu_bwNcPMg="
+    },
+    {
+      "id": 3,
+      "name": "John Academies",
+      "image": "https://media.istockphoto.com/id/183829120/photo/primary-school-building-in-kent-united-kingdom.jpg?s=612x612&w=0&k=20&c=s8eonbh-7_Jzb9wwYjxKdvnk3f4gCDf24wSJnPeJlNA="
+    },
+    {
+      "id": 4,
+      "name": "Delhi Academies",
+      "image": "https://media.istockphoto.com/id/156919428/photo/brandywine-heights-high-school-in-topton-pennsylvania.jpg?s=612x612&w=0&k=20&c=sQnVkYlvQQjBB_GIPrnqahzaiL6j1_JlzuCnFwPe4Y8="
+    },
+    {
+      "id": 5,
+      "name": "Asian Academies",
+      "image": "https://media.istockphoto.com/id/115867277/photo/academy.jpg?s=612x612&w=0&k=20&c=L4Z_B4gcGgQG6TrY6BQVsQ-fjJJ441Ef8zlEZWqmbSM="
+    },
+    {
+      "id": 6,
+      "name": "Chinese Academies",
+      "image": "https://media.istockphoto.com/id/170617725/photo/high-school-with-blue-sky-and-modern-architecture.jpg?s=612x612&w=0&k=20&c=phprHCtrvwExFYmHUDtGJpx_jdEvL1yAkHkNzTYNH3w="
+    },
+    {
+      "id": 7,
+      "name": "Arts Academies",
+      "image": "https://media.istockphoto.com/id/173761967/photo/high-school-building-entrance-copyspace-and-sky.jpg?s=612x612&w=0&k=20&c=i4JYhTWNUY02mUBLDgSj9ZDvMD-Hv_dJVe89ypMm8lo="
+    },
+    {
+      "id": 8,
+      "name": "Swin Academies",
+      "image": "https://media.istockphoto.com/id/96936221/photo/school-building-with-flag.jpg?s=612x612&w=0&k=20&c=KLAcx78wj3hf1c4ZwgpfB-vdS0eM9ply5yAstmcDqUE="
+    },
+    {
+      "id": 9,
+      "name": "Morcus Academies",
+      "image": "https://media.istockphoto.com/id/1317007945/photo/exterior-view-of-a-typical-american-school-building.jpg?s=612x612&w=0&k=20&c=FffTSUEMo9VODNLVR6AL7KEEgdMIucu5wgixzTMiBgk="
+    },
+    {
+      "id": 10,
+      "name": "Sparts Academies",
+      "image": "https://media.istockphoto.com/id/184885402/photo/school-building-and-playground.jpg?s=612x612&w=0&k=20&c=su-cHsionBkoxsPRd4WLqGZGnwOsVXLWCMt1nHV3Rv8="
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Gertrudis Tatterton",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww",
+      "comment": "I have been using school for over a year now and I love it! I can't imagine life without it. It's so easy to use, and the customer service is great."
+    },
+    {
+      "id": 2,
+      "name": "Martin",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww",
+      "comment": "I have tried a few software of this kind and school is the best by far!"
+    },
+    {
+      "id": 3,
+      "name": "Martin luthor",
+      "image": "https://images.unsplash.com/photo-1485206412256-701ccc5b93ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "comment": "If you want to take your business to the next level, use school and don't look any further."
+    },
+    {
+      "id": 4,
+      "name": "jarlin ",
+      "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "comment": "I highly recommend school. It has been so important for us as we continue to grow our company."
+    },
+    {
+      "id": 5,
+      "name": "Gertrudis Tatterton",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww",
+      "comment": "I have been using school for over a year now and I love it! I can't imagine life without it. It's so easy to use, and the customer service is great."
+    },
+    {
+      "id": 6,
+      "name": "Martin",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww",
+      "comment": "I have tried a few software of this kind and school is the best by far!"
+    },
+    {
+      "id": 7,
+      "name": "Martin luthor",
+      "image": "https://images.unsplash.com/photo-1485206412256-701ccc5b93ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "comment": "If you want to take your business to the next level, use school and don't look any further."
+    },
+    {
+      "id": 8,
+      "name": "jarlin ",
+      "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "comment": "I highly recommend school. It has been so important for us as we continue to grow our company."
+    },
+    {
+      "id": 9,
+      "name": "Martin luthor",
+      "image": "https://images.unsplash.com/photo-1485206412256-701ccc5b93ca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "comment": "If you want to take your business to the next level, use school and don't look any further."
+    },
+    {
+      "id": 10,
+      "name": "jarlin ",
+      "image": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHJhbmRvbSUyMHBlb3BsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "comment": "I highly recommend school. It has been so important for us as we continue to grow our company."
+    },
+    {
+      "id": 11,
+      "name": "Gertrudis Tatterton",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww",
+      "comment": "I have been using school for over a year now and I love it! I can't imagine life without it. It's so easy to use, and the customer service is great."
+    }
+  ]
+}
